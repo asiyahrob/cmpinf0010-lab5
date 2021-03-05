@@ -1,2 +1,6 @@
 # cmpinf0010-lab5
-# "hello my name is Sisi"
+# What the Software Does
+# How to Use the Software
+# Installation Documentation
+# Usage Documentation
+# How to Contribute
